@@ -84,7 +84,7 @@ class _FlorScreenState extends State<FlorScreen> {
                 infinite: true,
                 duration: const Duration(seconds: 8),
                 child: Image.asset(
-                  'flor.png',
+                  'assets/assets/flor.png',
                 ),
               ),
             ),
